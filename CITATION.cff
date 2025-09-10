@@ -1,1 +1,14 @@
-**Rodrigues, S. S.; Cruz, L. T. V.; de Souza, J. M.** *ConectaRural — Inclusão Digital para Comunidades Rurais*. GitHub, 2025. Disponível em: *https://github.com/jottam001/sustentabilidade-inclusao-impacto-social/blob/main/docs/Canvas%20ConectaRural%20(1).pdf*.
+cff-version: 1.2.0
+title: "ConectaRural: Plataforma Web Progressiva para Inclusão Digital Rural"
+authors:
+  - family-names: "Rodrigues"
+    given-names: "Solange dos Santos"
+  - family-names: "Cruz"
+    given-names: "Liziane Teixeira Vaz"
+  - family-names: "de Souza"
+    given-names: "Jesus Moura"
+version: "1.0.0"
+date-released: "2025-09-10"
+license: "CC-BY-4.0 OR MIT"
+type: report
+url: "https://github.com/jottam001/sustentabilidade-inclusao-impacto-social/blob/main/docs/Canvas%20ConectaRural%20(1).pdf"
