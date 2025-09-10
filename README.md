@@ -1,6 +1,6 @@
 
-Plataforma Web Progressiva (PWA) para inclusão digital em comunidades rurais brasileiras.
-# ConectaRural — Inclusão Digital para Comunidades Rurais 
+# Plataforma Web Progressiva (PWA) para inclusão digital em comunidades rurais brasileiras.
+   ConectaRural — Inclusão Digital para Comunidades Rurais 
 
 
 ## 🔎 Contexto e Problema
