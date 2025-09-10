@@ -40,4 +40,4 @@ Transformar **smartphones básicos** em ferramentas de emancipação econômica 
 
 ## 📂 Arquivos Disponíveis
 
-[RelatórioCompleto_Canvas ConectaRural]([https://github.com/jottam001/planejamento-de-carreira/blob/0a6362fb3b92da0a05c1b44b4b69b7c53d2e49e8/Planjemento_de_carreira.pdf](https://github.com/jottam001/sustentabilidade-inclusao-impacto-social/blob/main/docs/Canvas%20ConectaRural%20(1).pdf)).pdf → Relatório completo.
+([https://github.com/jottam001/planejamento-de-carreira/blob/0a6362fb3b92da0a05c1b44b4b69b7c53d2e49e8/Planjemento_de_carreira.pdf](https://github.com/jottam001/sustentabilidade-inclusao-impacto-social/blob/main/docs/Canvas%20ConectaRural%20(1).pdf)).pdf → Relatório completo.
