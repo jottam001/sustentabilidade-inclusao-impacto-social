@@ -36,6 +36,4 @@ Transformar smartphones básicos em ferramentas de emancipação econômica e so
 - Compatível com Android 5.0+ e navegadores antigos
 - Interface por voz e conteúdo adaptado à realidade rural
 
----
-
 ## 📂 Estrutura do Projeto
